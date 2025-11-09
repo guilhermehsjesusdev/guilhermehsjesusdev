@@ -1,16 +1,13 @@
-## Desenvolvedor FullStack | CyberSecurity | MBA em banco de Dados
+# Guilherme Henrique de Sousa Jesus 
+### Desenvolvedor FullStack | CyberSecurity | MBA em banco de Dados
 
-
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
-
-📊 **Linguágens | Banco de dados | Sistemas Operacionais :**
+📊 **Linguagens | Banco de dados | Sistemas Operacionais :**
 <!--START_SECTION:language-->
-
 ```txt
-JavaScript   ████████████████████░░   80%  
+JavaScript   ██████████████████████   100%
 TypeScript   ████████████████░░░░░░   75%
 Delphi       ██████░░░░░░░░░░░░░░░░   20%
-React        ███████████████░░░░░░░   70%  
+React        ███████████████░░░░░░░   70%
 Spring Boot  ██████████████████░░░░   70%  
 Java         ██████████████████░░░░   70%  
 PostgreSQL   ████████████████░░░░░░   65%
@@ -19,22 +16,41 @@ Kubernates   █░░░░░░░░░░░░░░░░░░░░░ 
 Firebird     ████████████████████░░   80%
 MySql        ████████████████████░░   80%
 Linux        ████████████████████░░   90%
-Redes        ██████████████████░░░░   80% ```
+Redes        ██████████████████░░░░   80% 
+```
 <!--END_SECTION:language-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+## 📈 Estatísticas GitHub
+<p align="flex">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermehsjesusdev&show_icons=true&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehsjesusdev&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+## 🚀 Principais Projetos
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+<p align="center">
+  <a href="https://github.com/guilhermehsjesusdev/Microservicos_Cartao">
+    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermehsjesusdev&repo=Microservicos_Cartao&theme=dracula" />
+  </a>
+  <a href="https://github.com/guilhermehsjesusdev/RelatoriosJasper">
+    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermehsjesusdev&repo=RelatoriosJasper&theme=dracula" />
+  </a>
+  <a href="https://github.com/guilhermehsjesusdev/MiniBlog">
+    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermehsjesusdev&repo=MiniBlog&theme=dracula" />
+  </a>
+</p>
+
+## 🧑‍💼 Contatos para Trabalhos e Freelancer
+
+<a href="https://www.linkedin.com/in/guilhermehsjesusdev/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:guilhermehsjesusdev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<hr>
 
 
-📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
