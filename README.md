@@ -1,24 +1,40 @@
-# Guilherme Henrique de Sousa Jesus
+## Desenvolvedor FullStack | CyberSecurity | MBA em banco de Dados
 
-Olá! 👋 Seja bem-vindo ao meu perfil no GitHub! Meu nome é Guilherme Henrique de Sousa Jesus, e estou animado para compartilhar meu trabalho e contribuições com você.
 
-## Sobre Mim ℹ️
-Sou um profissional com experiência sólida em desenvolvimento de software e banco de dados. Minha paixão pela tecnologia me levou a explorar diversas áreas, desde o desenvolvimento de aplicações até a segurança cibernética. Sou formado como Analista e Desenvolvedor de Sistemas, com especialização em Cybersegurança e MBA em Banco de Dados. Meu objetivo é aplicar meu conhecimento e habilidades para criar soluções inovadoras e seguras.
+for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
 
-## Experiências e Habilidades 💼
-- **Linguagens de Programação:** Python, Java, JavaScript
-- **Tecnologias Web:** ReactJS, Angular, Node.js
-- **Banco de Dados:** Experiência sólida em modelagem, consulta e administração de bancos de dados SQL e NoSQL
-- **Controle de Versão:** Git
-- **Arquitetura de Software:** Design e desenvolvimento de soluções escaláveis e eficientes
+📊 **Linguágens | Banco de dados | Sistemas Operacionais :**
+<!--START_SECTION:language-->
 
-## O Que Você Encontrará Aqui 🔍
-Neste espaço, compartilho projetos e códigos que desenvolvi, desde pequenos scripts até aplicações completas. Estou sempre aprendendo e buscando novos desafios, por isso, fique à vontade para explorar meus repositórios, deixar feedbacks ou até mesmo colaborar em projetos em conjunto.
+```txt
+JavaScript   ████████████████████░░   80%  
+TypeScript   ████████████████░░░░░░   75%
+Delphi       ██████░░░░░░░░░░░░░░░░   20%
+React        ███████████████░░░░░░░   70%  
+Spring Boot  ██████████████████░░░░   70%  
+Java         ██████████████████░░░░   70%  
+PostgreSQL   ████████████████░░░░░░   65%
+Docker       ████████████████░░░░░░   65%
+Kubernates   █░░░░░░░░░░░░░░░░░░░░░   5%
+Firebird     ████████████████████░░   80%
+MySql        ████████████████████░░   80%
+Linux        ████████████████████░░   90%
+Redes        ██████████████████░░░░   80% ```
+<!--END_SECTION:language-->
 
-Estou entusiasmado para fazer parte da comunidade GitHub e colaborar com outros desenvolvedores. Se você tiver alguma pergunta ou ideia, não hesite em entrar em contato. Vamos criar algo incrível juntos!
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-Obrigado por visitar meu perfil!
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-Atenciosamente,  
-Guilherme Henrique de Sousa Jesus
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  8,004 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
 
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
