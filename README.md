@@ -1,23 +1,22 @@
 # Guilherme Henrique de Sousa Jesus 
-### Desenvolvedor FullStack | CyberSecurity | MBA em banco de Dados
+### Cientista de Dados | Especialista em CyberSecurity | MBA em banco de Dados | A.D.S.
 
 📊 **Linguagens | Banco de dados | Sistemas Operacionais :**
 <!--START_SECTION:language-->
 ```txt
-Python       ████████████████         75%
-JavaScript   ████████████████         75%
-TypeScript   ████████████████         75%
-Delphi       ██████████               50%
-React        ███████████████          70%
-Spring Boot  ██████████████████       80%  
-Java         ██████████████████       80%  
-PostgreSQL   █████████████            65%
-Docker       █████████████            65%
-Kubernates   █                        5%
-Firebird     ██████████████████       80%
-MySql        ██████████████████       80%
+Python       ███████████████████      88%
+JavaScript   ████████████████         80%
+TypeScript   ██████████████           65%
+Delphi       █████████                40%
+React        ████████████████         80%
+Spring Boot  ████████████████         83%  
+Java         ████████████████         83%  
+PostgreSQL   ██████████████           75%
+Docker       ██████████████           75%
+Firebird     ████████████████         80%
+MySql        ████████████████         80%
 Linux        ████████████████████     90%
-Redes        ██████████████████       80% 
+Redes        ██████████████████       85% 
 ```
 <!--END_SECTION:language-->
 
@@ -25,20 +24,6 @@ Redes        ██████████████████       80%
 <p align="flex">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermehsjesusdev&show_icons=true&theme=tokyonight"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehsjesusdev&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
-## 🚀 Principais Projetos
-
-<p align="center">
-  <a href="https://github.com/guilhermehsjesusdev/Microservicos_Cartao">
-    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermehsjesusdev&repo=Microservicos_Cartao&theme=dracula" />
-  </a>
-  <a href="https://github.com/guilhermehsjesusdev/RelatoriosJasper">
-    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermehsjesusdev&repo=RelatoriosJasper&theme=dracula" />
-  </a>
-  <a href="https://github.com/guilhermehsjesusdev/MiniBlog">
-    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermehsjesusdev&repo=MiniBlog&theme=dracula" />
-  </a>
 </p>
 
 ## 🧑‍💼 Contatos para Trabalhos e Freelancer
